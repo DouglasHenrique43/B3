@@ -60,3 +60,4 @@ Analise das ações da B3 e automatização de compra ou venda das ações com b
 --------
 
 "# B3" 
+"# B3" 
